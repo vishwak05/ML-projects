@@ -1,4 +1,4 @@
-#ML-Projects
+#ML-Projects#
 Welcome to my Machine Learning Projects repository, where I will be applying innovative and practical solutions to real-life problems through the power of machine learning algorithms. This repository is a testament to my journey in exploring the vast landscape of machine learning and data science, demonstrating a diverse set of projects that span across various domains and challenges.
 
 ###Project Overview:
