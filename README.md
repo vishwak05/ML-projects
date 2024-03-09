@@ -1,10 +1,10 @@
-#ML-Projects#
+# ML-Projects
 Welcome to my Machine Learning Projects repository, where I will be applying innovative and practical solutions to real-life problems through the power of machine learning algorithms. This repository is a testament to my journey in exploring the vast landscape of machine learning and data science, demonstrating a diverse set of projects that span across various domains and challenges.
 
-###Project Overview:
+### Project Overview:
 These projects will aim to develop a Machine Learning Model to identify the problems and solve them using various Machine Learnin concepts. The datasets of projects will follow a Machine learning pipeline, then the model will be trained and evaluated using various machine learning techniques, and the results will be presented in a comprehensive report.
 
-###Project Objectives:
+### Project Objectives:
 1. To understand and analyze the relationship between various patient factors and the risk of developing diabetes.
 2. To develop a machine learning model that can accurately predict the onset of diabetes.
 3. To evaluate the performance of the model using various metrics and compare it to other existing models.
